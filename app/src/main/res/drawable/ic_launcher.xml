@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 背景：深蓝渐变感（深蓝底） -->
+    <path
+        android:fillColor="#0B1220"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+    <!-- 外圈光晕 -->
+    <path
+        android:fillColor="#1B2B4A"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+    <!-- 字母 R -->
+    <path
+        android:fillColor="#FF6A00"
+        android:pathData="M38,30h14c8.28,0 15,6.72 15,15c0,5.2 -2.66,9.77 -6.68,12.47L69,78H57.5l-7.5,-18h-6v18H38V30z M52,44c2.76,0 5,-2.24 5,-5s-2.24,-5 -5,-5h-8v10h8z" />
+    <!-- 高光点 -->
+    <path
+        android:fillColor="#FFB066"
+        android:pathData="M56,32a3,3 0,1 1,0 6a3,3 0,1 1,0 -6" />
+</vector>
